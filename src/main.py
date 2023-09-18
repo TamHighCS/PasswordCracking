@@ -1,5 +1,4 @@
 import argparse
-import os
 from hashlib import sha256
 
 # Create a parser for the command line
