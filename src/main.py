@@ -3,7 +3,7 @@ import os
 from hashlib import sha256
 
 # Create a parser for the command line
-parser = argparse.ArgumentParser(description="An addition program")
+parser = argparse.ArgumentParser(description="A password cracker")
 
 # Add arguments
 parser.add_argument(
